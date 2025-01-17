@@ -1,7 +1,7 @@
 export default {
   logo: <strong>Nextra Demo</strong>,
   project: {
-    link: "https://github.com/sankthomas/nextra-yt-demo",
+    link: "https://github.com/MdShahnawaz474",
   },
   useNextSeoProps() {
     return {
